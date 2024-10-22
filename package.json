@@ -1,0 +1,14 @@
+{
+  "name": "website-generator",
+  "version": "1.0.0",
+  "description": "A simple website generator that creates static websites based on user input.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
